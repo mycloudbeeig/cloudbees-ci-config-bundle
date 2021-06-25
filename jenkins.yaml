@@ -7,7 +7,7 @@ cloudbees-slack-integration:
       jenkins: "igenena"
       optedIn: true
       scmId: "igenena"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "islam.genena@telus.com"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
   config:
